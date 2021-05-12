@@ -1,3 +1,5 @@
+// © Avishkar Patil | Star this repo before copying and editing
+
 addEventListener('fetch', event => {
     event.respondWith(handleRequest(event.request))
 })
@@ -155,6 +157,7 @@ Stream
                     "Made-By": "https://github.com/avipatilpro/Voot_Player/"
             })
         })
+        // © Avishkar Patil
 
     } else {
         var pass = ({
@@ -344,3 +347,5 @@ document.addEventListener("DOMContentLoaded", () => {
 </html>`
 }
 }
+
+// © Avishkar Patil
